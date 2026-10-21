@@ -4,7 +4,7 @@ android-min-sdk = "21"
 android-target-sdk = "35"
 android-build-tools = "35"
 android-ndk = "27.0.12077973"
-agp = "8.6.1"
+agp = "8.8.2"
 kotlin = "2.5.0-Beta2"
 
 corektxVersion = '1.13.1'
